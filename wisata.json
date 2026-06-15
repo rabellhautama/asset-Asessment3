@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "nama": "Gunung Rinjani",
+    "lokasi": "Nusa Tenggara Barat",
+    "deskripsi": "Gunung Rinjani merupakan gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl.",
+    "imageId": "gununug rinjani",
+    "userId": "system"
+  },
+  {
+    "id": "2",
+    "nama": "Pink Beach",
+    "lokasi": "Labuan Bajo, NTT",
+    "deskripsi": "Pantai berpasir merah muda yang menjadi salah satu destinasi wisata unik di Indonesia.",
+    "imageId": "pink beach",
+    "userId": "system"
+  },
+  {
+    "id": "3",
+    "nama": "Candi Prambanan",
+    "lokasi": "Yogyakarta",
+    "deskripsi": "Kompleks candi Hindu terbesar di Indonesia dan situs warisan dunia UNESCO.",
+    "imageId": "candi prambanan",
+    "userId": "system"
+  },
+  {
+    "id": "4",
+    "nama": "Kawah Ijen",
+    "lokasi": "Banyuwangi, Jawa Timur",
+    "deskripsi": "Terkenal dengan fenomena blue fire yang langka.",
+    "imageId": "kawah ijen",
+    "userId": "system"
+  },
+  {
+    "id": "5",
+    "nama": "Tanah Lot",
+    "lokasi": "Bali",
+    "deskripsi": "Pura ikonik yang berdiri di atas batu karang di tepi laut.",
+    "imageId": "tana lot",
+    "userId": "system"
+  },
+  {
+    "id": "6",
+    "nama": "Banda Neira",
+    "lokasi": "Maluku",
+    "deskripsi": "Pulau bersejarah dengan keindahan laut dan peninggalan kolonial.",
+    "imageId": "banda neira",
+    "userId": "system"
+  },
+  {
+    "id": "7",
+    "nama": "Pura Ulun Danu Beratan",
+    "lokasi": "Bedugul, Bali",
+    "deskripsi": "Pura yang berada di tepi Danau Beratan dan menjadi ikon wisata Bali.",
+    "imageId": "bedugul",
+    "userId": "system"
+  },
+  {
+    "id": "8",
+    "nama": "Nusa Penida",
+    "lokasi": "Bali",
+    "deskripsi": "Pulau eksotis dengan tebing dan pantai yang memukau.",
+    "imageId": "nusa penida",
+    "userId": "system"
+  },
+  {
+    "id": "9",
+    "nama": "Labuan Bajo",
+    "lokasi": "Nusa Tenggara Timur",
+    "deskripsi": "Gerbang menuju Taman Nasional Komodo.",
+    "imageId": "labuan bajo",
+    "userId": "system"
+  },
+  {
+    "id": "10",
+    "nama": "Candi Borobudur",
+    "lokasi": "Magelang, Jawa Tengah",
+    "deskripsi": "Candi Buddha terbesar di dunia dan situs warisan UNESCO.",
+    "imageId": "candi borobudur",
+    "userId": "system"
+  },
+  {
+    "id": "11",
+    "nama": "Gunung Bromo",
+    "lokasi": "Jawa Timur",
+    "deskripsi": "Destinasi terkenal dengan panorama matahari terbit yang indah.",
+    "imageId": "gunung bromo",
+    "userId": "system"
+  }
+]
